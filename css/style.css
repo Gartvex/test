@@ -1,0 +1,25 @@
+.right{
+	float: right;
+}
+.footer{
+	padding-top: 50px;
+}
+.grey{
+	color: #999999;
+}
+ .center {
+    text-align: center;
+
+}
+.navfooter{
+	margin: -5px -1px 0px 0px;
+	border-radius: 0px;
+ }
+ .Copyright{
+ 	color: grey;
+ 	padding: 13px 0px 0px 32px;
+ }
+ .marginz{
+ 	border-radius: 0px;
+ 	margin-bottom: 0px;
+ }
